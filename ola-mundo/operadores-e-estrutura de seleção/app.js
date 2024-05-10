@@ -24,10 +24,10 @@ readline.question('Qual o ano de nascimento?', ano => {
                             console.log('bem vindo ao kart Rafael');
                             break;
                         default:
-                            console.log('Seu nome nao foi identificado na litsa de presença');
+                            console.log('Seu nome nao foi identificado na lista de presença');
                     }
                 })
             }
         })
     }
-})
+})  
